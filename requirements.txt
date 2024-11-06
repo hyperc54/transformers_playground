@@ -1,4 +1,4 @@
-transformers==4.46.1
+transformers==4.45.0
 urllib3<2
 datasets==2.21.0
 torch==2.4.1 # + right cuda
@@ -9,3 +9,9 @@ deepspeed==0.14.4
 peft==0.13.0
 openai==1.52.2
 tensorboard==2.18.0
+matplotlib==3.9.2
+huggingface-hub==0.26.2
+sentence-transformers==3.2.1
+faiss-cpu==1.9.0
+rouge-score==0.1.2
+nltk==3.9.1
